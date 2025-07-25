@@ -1,4 +1,4 @@
-# RealisticDangerousEvents
+# RealisticDangerousEvents - ETS2 Mod
 Modyfikacja działa na prawdopodobieństwie pojawiania się wybadków na drodze oraz zmiany pogody
 # Jak dać mod do gry?
 1. Pobierz folder z modyfikacją
